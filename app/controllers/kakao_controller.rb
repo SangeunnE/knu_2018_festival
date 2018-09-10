@@ -65,11 +65,7 @@ class KakaoController < ApplicationController
                 }
             }
         else
-            @post = Jau.new
-            @post.user_key = params[:user_key]
-            @post.content = params[:content]
-            @post.save
-            
+            Message.create(body: @input)
             @msg = {
                 message: {
                     text: "글이 정상적으로 등록되었습니다."

@@ -8,6 +8,7 @@ end
 gem 'bootstrap'
 gem 'jquery-rails'
 gem 'rails_db'
+gem 'pusher'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.4'
