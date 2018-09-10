@@ -15,5 +15,8 @@ Back : 홍석준 / 하준혁
 
 감독(?) : slow_samuel
 
+<<<<<<< HEAD
 TEST => @samslow @sangeunne
 머동머동?
+=======
+>>>>>>> 952e7763713e64fc91003f1748e431b1512f7bb8
