@@ -15,4 +15,4 @@ Back : 홍석준 / 하준혁
 
 감독(?) : slow_samuel
 
-TEST @sangeunne
+TEST @samslow
