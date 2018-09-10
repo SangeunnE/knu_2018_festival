@@ -15,5 +15,5 @@ Back : 홍석준 / 하준혁
 
 감독(?) : slow_samuel
 
-TEST @samslow
-saasgasdgvbzjkdsjhsjdfh 으아아ㅏ아앙
+TEST @samslowsdflasjdf;a
+상은이 바보 
